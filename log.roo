@@ -1,0 +1,8 @@
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2016-12-12 15:48:30
+project --topLevelPackage com.se.test
+jpa setup --provider HIBERNATE --database HYPERSONIC_IN_MEMORY 
+entity jpa --class ~.domain.Cus
+web mvc setup
+web mvc all --package ~.web
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2016-12-12 15:51:54

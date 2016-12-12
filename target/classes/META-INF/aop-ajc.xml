@@ -1,0 +1,11 @@
+<aspectj>
+<aspects>
+<aspect name="com.se.test.domain.Cus_Roo_Configurable"/>
+<aspect name="com.se.test.domain.Cus_Roo_ToString"/>
+<aspect name="com.se.test.domain.Cus_Roo_Jpa_Entity"/>
+<aspect name="com.se.test.domain.Cus_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.se.test.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.se.test.web.CusController_Roo_Controller"/>
+</aspects>
+</aspectj>
+
